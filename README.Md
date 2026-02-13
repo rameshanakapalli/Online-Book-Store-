@@ -26,20 +26,16 @@ The project demonstrates a layered architecture commonly used in real-world ente
 
 ## How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/SREENU42/Online_BookStore_JavaBackend.git
 
 
 
-2.Navigate to backend:
+1.Navigate to backend:
 cd Online_BookStore_JavaBackend
 
-3.Run using Maven:
+2.Run using Maven:
 mvn spring-boot:run
 
-4.Test APIs using Postman:
+3.Test APIs using Postman:
 GET http://localhost:8080/books
 POST http://localhost:8080/books
 PUT http://localhost:8080/books/{id}
