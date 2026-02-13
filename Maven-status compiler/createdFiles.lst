@@ -1,0 +1,7 @@
+com\onlinebookstore\model\Book.class
+com\onlinebookstore\exception\GlobalExceptionHandler.class
+com\onlinebookstore\service\BookService.class
+com\onlinebookstore\OnlineBookStoreApplication.class
+com\onlinebookstore\controller\BookController.class
+com\onlinebookstore\config\SecurityConfig.class
+com\onlinebookstore\repository\BookRepository.class
